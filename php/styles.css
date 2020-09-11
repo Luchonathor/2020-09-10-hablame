@@ -1,0 +1,84 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #eee;
+	font-size: 14px;
+	color: #666;
+	font-family: "Roboto Mono",Helvetica,Arial,sans-serif;
+}
+
+.content{
+	margin: 1em auto;
+	padding: 2em 5em;
+	background-color: #fff;
+	border: #999 solid 1px;
+	border-radius: 2em; 
+	width: 50%; 
+}
+
+.form-group{
+	margin-bottom: 2em;
+}
+
+.form-control{
+	margin-bottom: 1em;
+}
+
+.btn {
+	color: #ffffff;
+	background-color: #17a2b8;
+	border-color: #17a2b8;
+	box-shadow: none;
+    padding: 0.25em 0.5em;
+    font-size: 0.875em;
+    line-height: 1.5;
+    border-radius: 0.2em;
+    transition: 	color 0.15s 
+    				ease-in-out, 
+    				background-color 0.15s 
+    				ease-in-out, border-color 0.15s 
+    				ease-in-out, 
+    				box-shadow 0.15s 
+    				ease-in-out
+}
+
+.results{
+	background-color: #fdfdfb;
+	border: #999 solid 1px; 
+	border-radius: 1em; 
+	font-size: 1em;
+	margin: 0 auto; 
+	padding: 1em 2em;
+	width: 80%;
+}
+
+.results .panel{
+	width: 30%;
+	border-radius: 0.3em;
+	box-shadow: 0.1em 0.1em 0.3em #999;
+	display: inline-block;
+	margin: 0.5em auto;
+	margin-left: 0.5em;
+	vertical-align: top;
+}
+
+.results .panel .panel-title{
+	margin: 0;
+	border-bottom: #999 solid 1px;
+}
+
+.results .panel .panel-title h4{
+	margin: 0;
+	padding: 0.5em;
+}
+
+.results .panel .panel-content{
+	background-color: #fff;
+	margin: 0;
+}
+
+.results .panel .panel-content p{
+	margin: 0;
+	padding: 0.3em;
+	font-size: 0.85em;
+}

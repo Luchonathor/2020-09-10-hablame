@@ -1,0 +1,36 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #eee;
+	font-size: 14px;
+	color: #666;
+	font-family: "Roboto Mono",Helvetica,Arial,sans-serif;
+}
+
+.content{
+	margin: 1em auto;
+	padding: 2em 5em;
+	background-color: #fff;
+	border: #999 solid 1px;
+	border-radius: 2em; 
+	width: 50%; 
+}
+
+.form-group{
+	margin-bottom: 2em;
+}
+
+.form-control{
+	margin-bottom: 1em;
+}
+
+.results{
+	background-color: #bcecb8;
+	border: #277521 solid 1px; 
+	border-radius: 1em; 
+	color: #277521; 
+	font-size: 1.3em;
+	margin: 0 auto; 
+	padding: 1em 2em;
+	width: 80%;
+}

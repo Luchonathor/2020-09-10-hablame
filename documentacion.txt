@@ -1,0 +1,12 @@
+/***** API *****/
+https://ipstack.com/documentation
+
+key de acceso
+d703b36f588cd0671c1b2f3092d3c634
+
+Ejemplo de cosumo del servicio
+http://api.ipstack.com/134.201.250.155?access_key=d703b36f588cd0671c1b2f3092d3c634
+
+
+/***** SABER LA IP PUBLICA ACTUAL *****/
+https://www.cual-es-mi-ip.net/
